@@ -1,0 +1,1 @@
+https://milestone2-prediction-model.herokuapp.com
